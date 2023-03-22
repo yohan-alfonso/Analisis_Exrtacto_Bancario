@@ -1,6 +1,6 @@
 # Analisis_Exrtacto_Bancario
 
-This is a analisis of purchases made since 2022 up to february 2023
+This is an analisys of purchases made since 2022 up to january 2023
 
 The main porpouse is to find expenses that are low but at the long time represent high amounts (gasto hormiga)
 
